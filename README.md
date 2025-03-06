@@ -1,6 +1,10 @@
 # Проект: Управление грузами и блогом
 
 Этот проект представляет собой веб-приложение для управления грузами и ведения блога, разработанное с использованием Spring Boot для бэкенда и JavaScript для фронтенда.
+![image](https://github.com/user-attachments/assets/3826c0fc-c5fd-43b7-bb87-7e3ac628a1f4)
+![image](https://github.com/user-attachments/assets/3ad590a0-af61-4156-b8d7-6e861c74eb2a)
+![image](https://github.com/user-attachments/assets/dc809552-07ee-459a-af5d-efe75f4ea449)
+![image](https://github.com/user-attachments/assets/7ab2bbe8-858c-4ee8-8e26-2e289e292ea3)
 
 ## Оглавление
 
